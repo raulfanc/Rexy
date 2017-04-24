@@ -1,0 +1,10 @@
+﻿  Annie.cpp
+  EventManager.cpp
+..\..\projects\Solution1\SDK\EventManager.cpp(137): warning C4566: character represented by universal-character-name '\uFF1F' cannot be represented in the current code page (1252)
+..\..\projects\Solution1\SDK\EventManager.cpp(152): error C2065: 'MainMenu': undeclared identifier
+..\..\projects\Solution1\SDK\EventManager.cpp(152): error C2227: left of '->SaveSettings' must point to class/struct/union/generic type
+  ..\..\projects\Solution1\SDK\EventManager.cpp(152): note: type is 'unknown-type'
+..\..\projects\Solution1\SDK\EventManager.cpp(153): error C2065: 'MainMenu': undeclared identifier
+..\..\projects\Solution1\SDK\EventManager.cpp(153): error C2227: left of '->Remove' must point to class/struct/union/generic type
+  ..\..\projects\Solution1\SDK\EventManager.cpp(153): note: type is 'unknown-type'
+  PluginSDK.cpp
